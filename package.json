@@ -1,5 +1,5 @@
 {
-    "name": "openapi3-ts",
+    "name": "openapi3-ts-remove-yaml",
     "version": "3.0.2",
     "description": "TS Model & utils for OpenAPI 3.x specification.",
     "main": "dist/cjs/index.js",
